@@ -1,6 +1,11 @@
 https://www.binance.com/en/support/articles/360002502072  (here's how to create api you will need)
 1) enter these keys into binance_keys.py 
 2) download python and make sure you have the right libraries
+libraries to download. in Cmd in python folder in your program files go to command prompt in there and type and make sure to wait until each one is finished installing
+pip install python-binance
+pip install plotly
+pip install numpy
+pip install pandas
 3) you can run the program by double clicking Binance.py
 
 
